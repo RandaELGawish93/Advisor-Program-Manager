@@ -1,0 +1,4 @@
+{
+  "scriptId": "YOUR_CONTROL_CENTER_SCRIPT_ID",
+  "rootDir": "src/control-center"
+}
